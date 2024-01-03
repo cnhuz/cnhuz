@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world
 
 ![](https://github.com/cnhuz/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/cnhuz/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
