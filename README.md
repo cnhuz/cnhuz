@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-![](https://github.com/cnhuz/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/cnhuz/github-stats/blob/master/generated/languages.svg)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cnhuz&layout=compact&theme=radical)
-![](https://github-readme-stats.vercel.app/api?username=cnhuz&show_icons=true&theme=radical)
+![](https://github.com/cnhuz/github-stats-back/blob/master/generated/overview.svg)
+![](https://github.com/cnhuz/github-stats-back/blob/master/generated/languages.svg)
 <!--
 **cnhuz/cnhuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
