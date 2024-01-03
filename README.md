@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![](https://github.com/cnhuz/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/cnhuz/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/cnhuz/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/cnhuz/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 <!--
 **cnhuz/cnhuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
